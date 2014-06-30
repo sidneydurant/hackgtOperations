@@ -13,21 +13,33 @@ Stickers
 ---> 2000 @ $308.35
 ---> 3000 @ $360.68
 
-Canvas Banners
+Canvas Banners // need to decide between these and vinyl, canvas looks nicer (?)
 -> http://www.halfpricebanners.com/banners/canvas
 --> 2' x 6'
 ---> 2-9 @ $51.30/each
 ---> 10-24 @ $48.45/each
---> 3' x 12' for awards//binary bridge
----> 1 @ $162.00/each
+--> 3' x 12' for awards//binary bridge // this is awkwardly long, think about aspect ratio
+---> 1 @ $162.00/each                  // wont work unless we have a phrase on it
+
+
+Vinyl Banners // need to decide between these and canvas, vinyl better outdoors
+-> bannersonthecheap.com //cheapest option, up to 10x3
+10x3 = 33$
+-> vistaprint banners // more expensive, definitely quality, fewer sizes, up to 8x2.5
+8x2.5 = 41$
+-> eSigns.com // more expensive, but amazing choice of sizes, up to 10x50
+10x3 = 74$
+10x6 = 144$
+10x16 = 420$
 
 Custom Canopy
+// NOTE: I have one of these, either 8x8 or 10x10 at home - Sidney //
 //For an outdoor booth between the buildings
 -> https://www.logoexpressions.com/form.php?product=4565
 --> 10' x 10' 
 ---> 1 @ $605.00
 
-Custom Table Clothes
+Custom Table Cloths
 //For registration booth
 -> https://www.logoexpressions.com/form.php?product=3234
 --> 6ft, one color
@@ -52,10 +64,19 @@ Each one can have some sort of design.
 This can be printed @ GT or Fedex Kinkos for low cost... 
 Exact price can't be determined without sizing
 
-Current Total Estimated Cost: $2050
+2 main options:
+
+Current Total Estimated Cost (smaller,canvas banners): $2050
 THIS INCLUDES:
 - 3000 3" x 3" circle stickers
 - 10 2' x 6' banners
 - 1 3' x 12' banner
 - 1 10' x 10' canopy
 - 10 lawn signs
+
+Current Total Estimated Cost (bigger, vinyl banners) : $2044
+- 3000 3" x 3" circle stickers 557$
+- 10 3' x 10' banners 310$
+- 1 10' x 16' banner 420$ // NOTE: this is fucking enormous
+- 1 10' x 10' canopy 605$
+- 10 lawn signs 152$

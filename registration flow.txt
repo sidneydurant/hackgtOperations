@@ -1,0 +1,24 @@
+NOTE: this isn't a final document in any way, this is more of a talking points list for when me and Hunter can VC tomorrow, when we can make decisions. - Sidney
+
+Two main places for registration: before the ferst ceremony, or going into klaus.
+
+Ferst:
+pros:
+-people who show up early get registered quickly
+-as soon as opening is over people can get started hacking
+cons:
+-will need to move registration for people who are late
+
+Klaus:
+pros:
+-people who show up late get registered easily
+cons:
+-sudden rush right after ceremony, long waits
+
+Ferst definitely seems to be the better option (unless I'm missing something), but we will need to move registration during the opening ceremony, or just have two registrations completely set up
+
+Something that LAHacks did well is make the line interesting by making it an opportunity for sponsors to approach people. This will be easier for sponsors to do at Klaus, because they can just come outside with whatever promotions they have (ex: namecheap free website codes, stickers, w/e). This will be harder for them to do at Ferst, but the line will be shorter if we register at Ferst. I'll continue this document assuming we are registering people at Ferst.
+
+We should have registration right in the door, with the line inside as much as possible (in case of rain). We will need to find a way to keep the line interesting, which is where sponsors hopefully come in, we can let them know that soliciting is good, and that they should talk to hackers, get them pumped up, etc. I think we need to have the small banners (those on stands) lining the line, and then we will move them during the ceremony into klaus. If we want, we can tell sponsors to stay more or less in front of their banner, or make it more free form (and, accordingly, more hectic). Larger (hanging banners), will be set up inside of klaus, and wont move.
+
+To get people from Ferst to klaus we should have a path for people to take that avoids rain as much as possible.

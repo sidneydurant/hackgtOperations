@@ -1,0 +1,17 @@
+NOTE: this isn't a final document in any way, this is more of a talking points list for when me and Hunter can VC tomorrow, when we can make decisions. - Sidney
+
+I think there are two main places to have people hack: in the klaus atrium, and in the larger lecture halls. The klaus atrium isn't big enough to hold everyone, and is the logical place for sponsors, but we don't want sponsors to be so seperated from the hackers, we want to encourage sponsor/hacker interactions. We could have sponsors inside of the lecture halls, but then people would only see the sponsors in their own lecture halls, for the most part.
+
+If people work in lecture halls, we can use the screens to do announcements.
+
+We should have people work in lecture halls, and then have sponsors in the atrium (hallway is too cramped) and then find incentives to encourage people to stop by the atrium as often as possible.
+
+Incentives:
+-sponsors
+-swag giveaways by certain sponsors at certain times, people who are interested in certain companies show up to the companies swag giveaway. These would happen anyway, but if we make it more of an event, it might lure people away from hacking
+-a system that pairs people with sponsors with skills who can tutor/help (like bitcamps spreadsheet, but better)
+-food
+-snacks
+-a place to chill, talk to sponsors, etc, more relaxing environment, napping on upper floors of the atrium
+
+We should also use the small green outside of klaus as a place for people to eat and enjoy being outside. I personally loved the fifteen minutes I spent outside at LAhacks. Most hackathons you don't spend any time outside, which is a shame. Eating outside is nice, weather permitting.

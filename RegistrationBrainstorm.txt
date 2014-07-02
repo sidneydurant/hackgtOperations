@@ -1,0 +1,44 @@
+﻿Registration
+
+
+Summary
+This is meant to be an overview of registration based on research and extraction of various “best practices”. The Positive Ideas tab contains small tips and tricks that we have collected through experience and research. The Big No tab contains things that should never be done. The suggestions in the Crazy Ideas tab are meant to be possible things to add to registration to better improve the experience. The Location Independant Plan tab exists as a framework that can be placed anywhere regardless of location. It is not a set of best practices, but rather a brief outline of processes. It will be modified even further once a registration location is selected.
+
+
+Positive Ideas
+* Establishing a line to keep things organized - LA Hacks
+   * Wrap line around something physical (ex. building), ensure that it is not “long and straight”, keep it PHAT
+   * Sponsors entertaining the line
+   * Provide healthy snacks and drinks on this line
+      * Get sponsors for this so it doesn’t need to come out of pay
+   * Give out stickers/other cheap HackGT branding swag in line
+   * Take segments of the line to register (ex. 20 at a time)
+* Giving out swag bags during registration
+   * Keeping shirts // things with multiple sizes OUT of bag - MHacks
+* Establish a rain/heat plan
+* Small standing sponsor banners all along the line
+* Form should act as form and texting instructions
+   * On form we indicate to text email used for registration to number
+      * back-check emails 
+   * Have pencils ready
+Big No
+* Sized things in bag (ex. shirts, etc.)
+* long straight line (being able to see the length of a long line makes it seem worse)
+
+
+Crazy Ideas
+* Have a twilio app where people can text in registration
+   * Explanation: With everyone’s phone number, we can send out emergency texts and better handle the line
+   * Digital signatures?
+* Have a quadcopter to film/entertain the line
+
+
+Location Independant Plan
+1. Have physical space for line set up so that there is a clear start, path, and end even if there is no one on the line (use space and sponsor banners)
+2. Hide registration tables from majority (or all) of the line to prevent any sort of agitation
+3. Have HackGT volunteers ready to handle line before people show up
+4. Instruct sponsors to head over to the line AFTER the line has been established
+5. Constantly indicate to the line to text-in register (this way we can get all of their phone numbers and double-confirm if someone has registered, and instruct them to go to a separate booth if not pre-registered… after this process they will return to their spot on line)
+6. Provide documents to sign to the line, have them hold on to documents
+7. People have to trade signed form for swag (the signed form is the ticket)… This will prevent people from getting double swag, make this faster
+8. Instruct them to go to presentation area and find a seat
